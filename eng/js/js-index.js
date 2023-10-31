@@ -42,7 +42,7 @@ $(document).ready(function () {
                 <!-- 直式照片 -->
                 <source media="(orientation: portrait)" srcset="` + banner_pic3 + `" sizes="100vw">
                 <!-- default 預設圖片 -->
-                <img src="` + banner_pic1 + `" alt="` + banner_list.title + `圖片" width="100%" />
+                <img src="` + banner_pic1 + `" alt="` + banner_list.title_E + ` Picture" width="100%" />
                 `;
 
                 $("#banner_list").html(banner_str);
