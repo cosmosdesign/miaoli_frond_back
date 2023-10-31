@@ -59,7 +59,7 @@ $(document).ready(function () {
                 <article class="modNewsProList">
                     <div class="modNewsProList-imgBk">
                         <!-- 1210*905 -->
-                        <img src="` + newspic_path + `" alt="` + news.title + `圖片" onerror="this.src='images/noimg--news.png'" class="modNewsProList-imgBk--img">
+                        <img src="` + newspic_path + `" alt="" onerror="this.src='images/noimg--news.png'" class="modNewsProList-imgBk--img">
                     </div>
                     <p class="modNewsProList-subArea">
                         <span class="modNewsProList-subArea--main">
@@ -96,10 +96,10 @@ $(document).ready(function () {
             $.each(links_list, function (i, links) {
 
                 list_str += `
-                <a href="` + links.link + `" class="modLink" title="` + links.title + `" target="_blank">
+                <a href="` + links.link + `" class="modLink" title="另開新視窗" target="_blank">
                     ` + links.title + `
                     <div class="modLink-arrowBk">
-                        <img src="images/icon-arrow--right--sml--white.svg" alt="icon" aria-hidden="true">
+                        <img src="images/icon-arrow--right--sml--white.svg" alt="" aria-hidden="true">
                     </div>
                 </a>
                 `;

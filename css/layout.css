@@ -134,7 +134,7 @@ h4 {
   color: #494949;
   font-size: 0.4375rem;
   letter-spacing: 0.5px;
-  color: #848484;
+  color: #747373;
 }
 @media all and (min-width: 80em) {
   h4 {
@@ -170,7 +170,7 @@ p {
 }
 
 .typo-gray.typo-gray {
-  color: #848484;
+  color: #747373;
 }
 
 .typo-white.typo-white {
@@ -976,7 +976,7 @@ a:hover, a:active, a:focus {
 }
 
 .ui.dropdown:not(.button) > .default.text, .ui.default.dropdown:not(.button) > .text {
-  color: #848484 !important;
+  color: #747373 !important;
   text-overflow: ellipsis !important;
   white-space: nowrap !important;
   width: 100% !important;
@@ -1007,16 +1007,16 @@ a:hover, a:active, a:focus {
   border: 1px solid rgb(250, 17, 7) !important;
 }
 .ui.form .field input::-webkit-input-placeholder, .ui.form .field input[type=text]::-webkit-input-placeholder, .ui.form .field input[type=number]::-webkit-input-placeholder, .ui.form .field input[type=email]::-webkit-input-placeholder, .ui.form .field input[type=password]::-webkit-input-placeholder, .ui.form .field select::-webkit-input-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field input::-moz-placeholder, .ui.form .field input[type=text]::-moz-placeholder, .ui.form .field input[type=number]::-moz-placeholder, .ui.form .field input[type=email]::-moz-placeholder, .ui.form .field input[type=password]::-moz-placeholder, .ui.form .field select::-moz-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field input:-ms-input-placeholder, .ui.form .field input[type=text]:-ms-input-placeholder, .ui.form .field input[type=number]:-ms-input-placeholder, .ui.form .field input[type=email]:-ms-input-placeholder, .ui.form .field input[type=password]:-ms-input-placeholder, .ui.form .field select:-ms-input-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field input:-moz-placeholder, .ui.form .field input[type=text]:-moz-placeholder, .ui.form .field input[type=number]:-moz-placeholder, .ui.form .field input[type=email]:-moz-placeholder, .ui.form .field input[type=password]:-moz-placeholder, .ui.form .field select:-moz-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field textarea {
   width: 100% !important;
@@ -1045,16 +1045,16 @@ a:hover, a:active, a:focus {
   border: 1px solid rgb(250, 17, 7) !important;
 }
 .ui.form .field textarea::-webkit-input-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field textarea::-moz-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field textarea:-ms-input-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field textarea:-moz-placeholder {
-  color: #848484 !important;
+  color: #747373 !important;
 }
 .ui.form .field input[type=checkbox], .ui.form .field input[type=radio] {
   padding-left: 30px !important;
@@ -1124,7 +1124,7 @@ a:hover, a:active, a:focus {
   color: #494949;
   font-size: 0.4375rem;
   word-spacing: 0.5px;
-  color: #848484;
+  color: #747373;
 }
 @media all and (min-width: 116em) {
   .eleSecTit--hakka {
@@ -1332,7 +1332,7 @@ a:hover, a:active, a:focus {
 .eleBite-link {
   position: relative;
   vertical-align: middle;
-  color: #848484;
+  color: #747373;
   line-height: 1.6;
   font-size: 0.88em;
   font-family: "NotoSansTC-Regular";
@@ -1439,7 +1439,7 @@ a:hover, a:active, a:focus {
   display: inline-block;
   line-height: 38px;
   font-size: 1rem;
-  color: #848484;
+  color: #747373;
   letter-spacing: 0.5px;
 }
 @media all and (min-width: 48em) {
@@ -1893,7 +1893,7 @@ a:hover, a:active, a:focus {
   margin-bottom: 20px;
   width: 100%;
   display: block;
-  color: #848484;
+  color: #747373;
   cursor: pointer;
   border: none;
   background: none;
@@ -2104,7 +2104,7 @@ a:hover, a:active, a:focus {
 .patFooter {
   padding: 50px 0 0 0;
   position: relative;
-  z-index: 2;
+  z-index: 3;
   min-height: 200px;
 }
 @media all and (min-width: 80em) {
@@ -2175,7 +2175,7 @@ a:hover, a:active, a:focus {
   margin: 0 auto;
   text-align: center;
   cursor: pointer;
-  color: #848484;
+  color: #747373;
   border: none;
   background: none;
 }
@@ -2290,7 +2290,7 @@ a:hover, a:active, a:focus {
   margin-bottom: 20px;
   width: 100%;
   display: block;
-  color: #848484;
+  color: #747373;
   cursor: pointer;
   letter-spacing: 0.08em;
   font-size: 1.125rem;
@@ -2335,7 +2335,7 @@ a:hover, a:active, a:focus {
 }
 
 .patFooter-secLinkBk--des {
-  color: #848484;
+  color: #747373;
   font-size: 0.9375rem;
   font-weight: normal;
   margin: 0 0 50px 0;
@@ -2367,7 +2367,7 @@ a:hover, a:active, a:focus {
 
 .patFooter-secLinkBk--link {
   display: block;
-  color: #848484;
+  color: #747373;
   font-size: 0.9375rem;
   line-height: 2;
 }
@@ -2923,7 +2923,10 @@ a:hover, a:active, a:focus {
 }
 
 .indMain-webNameArea--hakka {
-  color: #848484;
+  font-family: "NotoSerifTC-SemiBold";
+  font-size: 1rem;
+  color: #494949;
+  color: #747373;
   letter-spacing: 0;
   font-size: 0.3125rem;
 }
@@ -3174,7 +3177,7 @@ a:hover, a:active, a:focus {
 
 .indMainAir-infoArea--time {
   width: 100%;
-  color: #494949;
+  color: #747373;
   font-size: 0.88em;
   font-family: "Montserrat-Medium", serif, "NotoSansTC-Regular";
   font-weight: normal;
@@ -3725,7 +3728,7 @@ a:hover, a:active, a:focus {
 }
 
 .modNewsProList-subArea--date {
-  color: #848484;
+  color: #747373;
 }
 
 .modNewsProList-link {
@@ -3747,7 +3750,7 @@ a:hover, a:active, a:focus {
   font-size: 0.9375rem;
   font-style: normal;
   font-family: "NotoSansTC-Regular";
-  color: #848484;
+  color: #747373;
   line-height: 1.7;
 }
 @media all and (min-width: 80em) {
@@ -3862,7 +3865,7 @@ a:hover, a:active, a:focus {
 .modPagArticle-dateBk--day {
   font-size: 3.75rem;
   font-family: "Montserrat-Bold";
-  color: #C1C1C1;
+  color: #747373;
   margin: 0 0 5px 0;
   line-height: 1;
   letter-spacing: 1px;
@@ -3871,7 +3874,7 @@ a:hover, a:active, a:focus {
 .modPagArticle-dateBk--monthyear {
   font-size: 1rem;
   font-family: "Montserrat-Regular";
-  color: #C1C1C1;
+  color: #747373;
   margin: 0;
   letter-spacing: 1.5px;
 }
@@ -3987,49 +3990,14 @@ a:hover, a:active, a:focus {
   }
 }
 
-.modBanner-img--smlBk {
-  width: auto;
-  height: 50px;
-  text-align: center;
-}
-
 .modBanner-img {
-  width: auto;
-  height: 50px;
-}
-@media all and (min-width: 48em) {
-  .modBanner-img {
-    height: 100px;
-  }
-}
-@media all and (min-width: 80em) {
-  .modBanner-img {
-    height: 120px;
-  }
+  width: 100%;
+  height: auto;
 }
 
 .modBanner-text {
   color: #996600;
   padding: 15px 0;
-}
-
-.modBanner-img--big {
-  width: auto;
-  height: 120px;
-}
-@media all and (min-width: 48em) {
-  .modBanner-img--big {
-    height: 300px;
-  }
-}
-@media all and (min-width: 80em) {
-  .modBanner-img--big {
-    height: 400px;
-  }
-}
-
-.modBanner-img--bigBk {
-  text-align: center;
 }
 
 /*page*/

@@ -97,22 +97,22 @@ function ShowNavigation(sysconfig, navigation) {
         <!-- 開合選單按鈕區 -->
         <header class="patheaderBk js-patheader">
             <a href="index.html" class="patLogo js-headerLogo" title="go to` + sysconfig[19].setvalue + ` index" aria-label="Collapse menu">
-                <img src="images/logo.svg" alt="decorative icon"="Miaoli County Environmental Protection Department"  class="patLogo-img" aria-hidden="true">
+                <img src="images/logo.svg" alt=""="Miaoli County Environmental Protection Department"  class="patLogo-img" aria-hidden="true">
             </a>
             <a href="../" class="patEngBt" aria-label="打開中文版網站" target="_blank">
-                <img src="images/icon-translate--white.svg" class="patEngBt-icon" alt="decorative icon">
+                <img src="images/icon-translate--white.svg" class="patEngBt-icon" alt="">
                 <span class="patEngBt-text">
                     中文網站
                 </span>
             </a>
             <button class="patSearchBt js-navSearchBt" aria-label="Open website search function">
-                <img src="images/icon-serach--white.svg" class="patSearchBt-icon" alt="decorative icon">
+                <img src="images/icon-serach--white.svg" class="patSearchBt-icon" alt="">
                 <span class="patSearchBt-text">
                     SEARCH
                 </span>
             </button>
             <button class="patheaderBt js-navOpenBt" aria-label="Open website link menu">
-                <img src="images/icon-hamburger--white.svg" class="patheaderBt-icon" alt="decorative icon">
+                <img src="images/icon-hamburger--white.svg" class="patheaderBt-icon" alt="">
             </button>
         </header>
 
@@ -121,13 +121,13 @@ function ShowNavigation(sysconfig, navigation) {
             <div class="patnav js-patnavContent">
                 <div class="patnav-head">
                     <a href="index.html" title="go to` + sysconfig[19].setvalue + ` index" aria-label="go to` + sysconfig[19].setvalue + ` index" class="js-navOpenfocus js-tabnone" tabindex="-1">
-                        <img src="images/footer-logo.svg" alt="decorative icon"="` + sysconfig[19].setvalue + `LOGO" class="patnav-head--logoImg" aria-hidden="true">
+                        <img src="images/footer-logo.svg" alt=""="` + sysconfig[19].setvalue + `LOGO" class="patnav-head--logoImg" aria-hidden="true">
                     </a>
                 </div>
 
                 <div class="patnavDecBk">
-                    <img src="images/nav-dec01.png" class="patnavDecBk--dec01" alt="decorative icon">
-                    <img src="images/nav-dec02.png" class="patnavDecBk--dec02" alt="decorative icon">
+                    <img src="images/nav-dec01.png" class="patnavDecBk--dec01" alt="">
+                    <img src="images/nav-dec02.png" class="patnavDecBk--dec02" alt="">
                 </div>
 
                 <div class="patnavSectionBk">
@@ -212,7 +212,7 @@ function ShowNavigation(sysconfig, navigation) {
 
                 <!-- 關閉按鈕，放在最後讓無障礙使用者關閉 -->
                 <button class="patnav-navCloseBt js-navCloseBt js-tabnone" aria-label="Close website link menu" tabindex="-1">
-                    <img src="images/icon-close--white.svg" alt="decorative icon" class="patnav-navCloseBt--icon">
+                    <img src="images/icon-close--white.svg" alt="" class="patnav-navCloseBt--icon">
                 </button>
 
             </div>
@@ -234,14 +234,14 @@ function ShowNavigation(sysconfig, navigation) {
                         <div class="gcse-searchbox-only"></div> -->
                         <!-- <input type="text" name="" id="" class="patSearchArea-input js-searchBt js-tabnone" placeholder="輸入搜尋關鍵字"  tabindex="-1">
                         <a href="javascript:void(0);" class="patSearchArea-input--iconBt js-tabnone" role="button" aria-pressed="false" aria-label="送出搜尋按鈕"  tabindex="-1">
-                            <img src="images/icon-serach--gold.svg" alt="decorative icon"="icon" aria-hidden="true">
+                            <img src="images/icon-serach--gold.svg" alt=""="icon" aria-hidden="true">
                         </a> -->
                     </div>
 
                 </div>
                 <!-- 關閉按鈕，放在最後讓無障礙使用者關閉 -->
                 <button class="patnav-navCloseBt js-searchCloseBt js-tabnone" aria-label="close search area"  tabindex="-1">
-                    <img src="images/icon-close--white.svg" class="patnav-navCloseBt--icon" alt="decorative icon">
+                    <img src="images/icon-close--white.svg" class="patnav-navCloseBt--icon" alt="">
                 </button>
             </div>
             <div>

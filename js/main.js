@@ -109,7 +109,7 @@ function ShowNavigation(sysconfig, navigation) {
                 <img src="images/logo.svg" alt="苗栗縣政府環境保護局全球資訊網LOGO"  class="patLogo-img" aria-hidden="true">
             </a>
             <a href="eng/" class="patEngBt" aria-label="打開英文版網站">
-                <img src="images//icon-translate--white.svg" alt="icon" class="patEngBt-icon" aria-hidden="true">
+                <img src="images//icon-translate--white.svg" alt="" class="patEngBt-icon" aria-hidden="true">
                 <span class="patEngBt-text">
                     英文
                     <br />
@@ -340,7 +340,7 @@ function ShowNavigation(sysconfig, navigation) {
                         <div class="gcse-searchbox-only"></div> -->
                         <!-- <input type="text" name="" id="" class="patSearchArea-input js-searchBt js-tabnone" placeholder="輸入搜尋關鍵字"  tabindex="-1">
                         <a href="javascript:void(0);" class="patSearchArea-input--iconBt js-tabnone" role="button" aria-pressed="false" aria-label="送出搜尋按鈕"  tabindex="-1">
-                            <img src="images/icon-serach--gold.svg" alt="icon" aria-hidden="true">
+                            <img src="images/icon-serach--gold.svg" alt="" aria-hidden="true">
                         </a> -->
                     </div>
 

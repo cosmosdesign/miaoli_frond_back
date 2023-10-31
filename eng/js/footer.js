@@ -24,7 +24,7 @@ function ShowFooter(sysconfig, navigation) {
     let FooterContent = `
         <footer class="patFooter">
             <div class="patFooter-dec">
-                <img src="images/ele-footerBg-01.svg" alt="decorative icon">
+                <img src="images/ele-footerBg-01.svg" alt="">
             </div>
             <div class="patFooter-openBtBk">
             <button class="patFooter-openBt js-patFooter-openBt">
