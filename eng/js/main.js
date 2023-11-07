@@ -91,8 +91,7 @@ function ShowNavigation(sysconfig, navigation) {
     let NavContent = `
         <a class="patSkip_main" href="#acckeyC" accesskey="C" title="Central Content Area" tabindex="1" id="patSkip_main">Jump to Main Content Area</a>
         <a class="patSkip_acc" href="acc.html" title="Go to Website Navigaion Area" tabindex="1" id="patSkip_acc">Go to Website Navigaion Area</a>
-        <noscript>"Your browser does not support JavaScript functionality. If the features of this website are not functioning
-        properly, please enable JavaScript in your browser settings."</noscript>
+
 
         <!-- 開合選單按鈕區 -->
         <header class="patheaderBk js-patheader">

@@ -101,7 +101,7 @@ function ShowNavigation(sysconfig, navigation) {
     let NavContent = `
         <a class="patSkip_main" href="#acckeyC" accesskey="C" title="中央內容區塊" tabindex="1" id="patSkip_main">跳到主要內容區</a>
         <a class="patSkip_acc" href="acc.html" title="到網站導覽區" tabindex="1" id="patSkip_acc">到網站導覽區</a>
-        <noscript>您的瀏覽器不支援JavaScript功能，若本網站功能無法正常使用，請開啟瀏覽器JavaScript狀態</noscript>
+        
 
         <!-- 開合選單按鈕區 -->
         <header class="patheaderBk js-patheader">
