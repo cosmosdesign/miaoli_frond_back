@@ -114,10 +114,10 @@ function ShowFooter(sysconfig, navigation) {
                         <!-- <li class="patFooter-linkBk--li"><a href="contact.html" class="patFooter-linkBk--li--link js-footer-tabno ` + contact_ss + `" title="contact us">contact us</a></li>
                         <li class="patFooter-linkBk--li"><a href="howtogo.html" class="patFooter-linkBk--li--link js-footer-tabno" ` + howtogo_ss + ` title="traffic information">traffic information</a></li>
                         <li class="patFooter-linkBk--li"><a href="acc.html" class="patFooter-linkBk--li--link js-footer-tabno" ` + acc_ss + ` title="Sitemap">Sitemap</a></li> -->
-                        <li class="patFooter-linkBk--li"><a href="https://www.epa.gov.tw/ENG/" class="patFooter-linkBk--li--link js-footer-tabno" title="Executive Yuan Environmental Protection Agency" target="_blank">Executive Yuan Environmental Protection AgencyExecutive Yuan Environmental Protection Agency</a></li>
+                        <li class="patFooter-linkBk--li"><a href="https://www.epa.gov.tw/ENG/" class="patFooter-linkBk--li--link js-footer-tabno" title="Open in a new windowHyperlink" target="_blank">Executive Yuan Environmental Protection AgencyExecutive Yuan Environmental Protection Agency</a></li>
                         <li class="patFooter-linkBk--li"><a href="../" class="patFooter-linkBk--li--link js-footer-tabno" title="中文版網站">中文版網站</a></li>
                         <li class="patFooter-linkBk--li mt-10">
-                            <a href="` + sysconfig[17].setvalue + `" class="patFooter-linkBk--li--link js-footer-tabno" title="Open in a new windowHyperlink: Miaoli County Environmental Protection Bureau facebook fan group" target="_blank">
+                            <a href="` + sysconfig[17].setvalue + `" class="patFooter-linkBk--li--link js-footer-tabno" title="Open in a new windowHyperlink" target="_blank">
                                 <img src="images/icon-fb.svg"  alt=" Miaoli County Environmental Protection Department Facebook Page">
                             </a>
                         </li>

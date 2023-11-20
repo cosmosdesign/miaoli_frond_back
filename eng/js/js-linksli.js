@@ -73,7 +73,7 @@ $(document).ready(function() {
             $.each(links_list.data, function (i, links) {
 
                 list_str += `
-                <a href="` + links.link + `" class="modLink" title="另開新視窗" target="_blank">
+                <a href="` + links.link + `" class="modLink" title="Open in a new windowHyperlink" target="_blank">
                     ` + links.title + `
                     <div class="modLink-arrowBk">
                         <img src="images/icon-arrow--right--sml--white.svg" alt="" aria-hidden="true">

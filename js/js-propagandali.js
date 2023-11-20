@@ -84,7 +84,7 @@ $(document).ready(function() {
                     `
                 if (disseminate.type == "2") {
                     list_str += `
-                        <a href="` + disseminate.link + `" target="_blank" class="modNewsProList-link" title="` + disseminate.title + `">
+                        <a href="` + disseminate.link + `" target="_blank" class="modNewsProList-link" title="另開新視窗">
                             ` + disseminate.title + `
                         </a>
                         `

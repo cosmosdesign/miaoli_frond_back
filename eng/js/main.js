@@ -98,7 +98,7 @@ function ShowNavigation(sysconfig, navigation) {
             <a href="index.html" class="patLogo js-headerLogo" title="go to` + sysconfig[19].setvalue + ` index" aria-label="Collapse menu">
                 <img src="images/logo.svg" alt=""="Miaoli County Environmental Protection Department"  class="patLogo-img" aria-hidden="true">
             </a>
-            <a href="../" class="patEngBt" aria-label="打開中文版網站" target="_blank">
+            <a href="../" class="patEngBt" aria-label="打開中文版網站" target="_blank" title="另開新視窗">
                 <img src="images/icon-translate--white.svg" class="patEngBt-icon" alt="">
                 <span class="patEngBt-text">
                     中文網站

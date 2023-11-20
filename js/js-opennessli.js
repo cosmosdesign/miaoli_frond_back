@@ -95,7 +95,7 @@ $(document).ready(function() {
                     `
                 if (openinfo.type == "2") {
                     list_str += `
-                        <a href="` + openinfo.link + `" target="_blank" class="modNewsProList-link" title="` + openinfo.title + `">
+                        <a href="` + openinfo.link + `" target="_blank" class="modNewsProList-link" title="另開新視窗">
                             ` + openinfo.title + `
                         </a>
                         `
