@@ -36,7 +36,7 @@ function ShowFooter(sysconfig, navigation) {
                 <!-- 展開區 -->
                 <div class="patFooter-leftBk">
                     <a href="index.html" class="patFooter-leftBk--logo" title="go to ` + sysconfig[19].setvalue + ` index" aria-label="go to ` + sysconfig[19].setvalue + ` index">
-                        <img src="images/footer-logo.svg" alt="Miaoli County Environmental Protection Bureau">
+                        <img src="images/footer-logo.svg" alt="Miaoli County Environmental Protection Bureau LOGO">
                     </a>
                     <p class="typo-gray">
                         356 No. 95, Gaotie 1st Road, Houlong Town, Miaoli County

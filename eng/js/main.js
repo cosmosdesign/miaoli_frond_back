@@ -96,7 +96,7 @@ function ShowNavigation(sysconfig, navigation) {
         <!-- 開合選單按鈕區 -->
         <header class="patheaderBk js-patheader">
             <a href="index.html" class="patLogo js-headerLogo" title="go to` + sysconfig[19].setvalue + ` index" >
-                <img src="images/logo.svg" alt="Miaoli County Environmental Protection Department"  class="patLogo-img">
+                <img src="images/logo.svg" alt="Miaoli County Environmental Protection Department LOGO"  class="patLogo-img">
             </a>
             <a href="../" class="patEngBt" target="_blank" title="另開新視窗">
                 <img src="images/icon-translate--white.svg" class="patEngBt-icon" alt="">

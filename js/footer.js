@@ -36,7 +36,7 @@ function ShowFooter(sysconfig, navigation) {
                 <!-- 展開區 -->
                 <div class="patFooter-leftBk">
                     <a href="index.html" class="patFooter-leftBk--logo" title="回` + sysconfig[1].setvalue + `首頁" aria-label="回` + sysconfig[1].setvalue + `首頁">
-                        <img src="images/footer-logo.svg" alt="苗栗縣環境保護局">
+                        <img src="images/footer-logo.svg" alt="苗栗縣政府環境保護局全球資訊網LOGO">
                     </a>
                     <p class="typo-gray">
                         356 苗栗縣後龍鎮高鐵一路95號

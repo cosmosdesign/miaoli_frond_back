@@ -140,8 +140,8 @@ function ShowNavigation(sysconfig, navigation) {
                 <div class="clear"></div>
 
                 <div class="patnavDecBk">
-                    <img src="images/nav-dec01.png" class="patnavDecBk--dec01">
-                    <img src="images/nav-dec02.png" class="patnavDecBk--dec02">
+                    <img src="images/nav-dec01.png" class="patnavDecBk--dec01" alt="">
+                    <img src="images/nav-dec02.png" class="patnavDecBk--dec02" alt="">
                 </div>
 
                 <div class="patnavSectionBk">
@@ -339,8 +339,8 @@ function ShowNavigation(sysconfig, navigation) {
                         <!-- <script async src="https://cse.google.com/cse.js?cx=79eed71cc65107763"></script>
                         <div class="gcse-searchbox-only"></div> -->
                         <!-- <input type="text" name="" id="" class="patSearchArea-input js-searchBt js-tabnone" placeholder="輸入搜尋關鍵字"  tabindex="-1">
-                        <a href="javascript:void(0);" class="patSearchArea-input--iconBt js-tabnone" role="button" aria-pressed="false" tabindex="-1">
-                            <img src="images/icon-serach--gold.svg" alt="送出搜尋按鈕">
+                        <a href="javascript:void(0);" class="patSearchArea-input--iconBt js-tabnone" role="button" aria-pressed="false" tabindex="-1" title="按鈕>
+                            <img src="images/icon-serach--gold.svg" alt="送出搜尋">
                         </a> -->
                     </div>
 
