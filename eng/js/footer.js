@@ -28,7 +28,7 @@ function ShowFooter(sysconfig, navigation) {
             </div>
             <div class="patFooter-openBtBk">
             <button class="patFooter-openBt js-patFooter-openBt">
-                <img src="images/icon-arrowBt--top--gray.svg" alt="" class="patFooter-openBt--icon js-patFooter-openBt--icon" aria-hidden="true">
+                <img src="images/icon-arrowBt--top--gray.svg" alt="" class="patFooter-openBt--icon js-patFooter-openBt--icon">
                 <div class="patFooter-openBt--text js-patFooter-openBt--text">closed</div>
             </button>
             </div>

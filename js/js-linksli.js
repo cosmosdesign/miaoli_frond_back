@@ -72,7 +72,7 @@ $(document).ready(function() {
                 <a href="` + links.link + `" class="modLink" title="另開新視窗" target="_blank">
                     ` + links.title + `
                     <div class="modLink-arrowBk">
-                        <img src="images/icon-arrow--right--sml--white.svg" alt="" aria-hidden="true">
+                        <img src="images/icon-arrow--right--sml--white.svg" alt="">
                     </div>
                 </a>
                 `;

@@ -68,7 +68,7 @@ $(document).ready(function() {
             <div class="fb-share-button" data-href="`+ window.location.href +`" data-layout="button" data-size="large">
                 <a title="另開新視窗" href="https://www.facebook.com/sharer/sharer.php?u=`+ encodeURIComponent(window.location.href) +`&amp;src=sdkpreparse" class="btnMainColorBt typo-textAlignright" target="_blank">
                     SHARE
-                    <img src="images/share.svg" alt="" class="icon--left" aria-hidden="true">
+                    <img src="images/share.svg" alt="" class="icon--left">
                 </a>
             </div>
             `

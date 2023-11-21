@@ -77,7 +77,7 @@ $(document).ready(function() {
                         <h2>` + qa.title + `</h2>
                     </a>
                     <div class="pagQaList-linkDecBt mtb-10">
-                        <img src="images/icon-arrow--right--big--em.svg" alt="" aria-hidden="true">
+                        <img src="images/icon-arrow--right--big--em.svg" alt="">
                     </div>
                 </article>
                 `

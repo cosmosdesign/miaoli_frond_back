@@ -105,27 +105,27 @@ function ShowNavigation(sysconfig, navigation) {
 
         <!-- 開合選單按鈕區 -->
         <header class="patheaderBk js-patheader">
-            <a href="index.html" class="patLogo js-headerLogo" title="回` + sysconfig[1].setvalue + `首頁" aria-label="開合選單">
-                <img src="images/logo.svg" alt="苗栗縣政府環境保護局全球資訊網LOGO"  class="patLogo-img" aria-hidden="true">
+            <a href="index.html" class="patLogo js-headerLogo" title="回` + sysconfig[1].setvalue + `首頁" >
+                <img src="images/logo.svg" alt="苗栗縣政府環境保護局全球資訊網LOGO"  class="patLogo-img">
             </a>
-            <a href="eng/" class="patEngBt" aria-label="打開英文版網站">
-                <img src="images//icon-translate--white.svg" alt="" class="patEngBt-icon" aria-hidden="true">
+            <a href="eng/" class="patEngBt" title="打開英文版網站">
+                <img src="images/icon-translate--white.svg" alt="" class="patEngBt-icon">
                 <span class="patEngBt-text">
                     英文
                     <br />
                     網站
                 </span>
             </a>
-            <button class="patSearchBt js-navSearchBt" aria-label="打開網站搜尋功能">
-                <img src="images/icon-serach--white.svg" alt="裝飾圖示" class="patSearchBt-icon" aria-hidden="true">
+            <button class="patSearchBt js-navSearchBt">
+                <img src="images/icon-serach--white.svg" class="patSearchBt-icon" alt="打開站內搜尋功能">
                 <span class="patSearchBt-text">
                     站內
                     <br />
                     搜尋
                 </span>
             </button>
-            <button class="patheaderBt js-navOpenBt" aria-label="打開網站連結選單">
-                <img src="images/icon-hamburger--white.svg" alt="裝飾圖示" class="patheaderBt-icon" aria-hidden="true">
+            <button class="patheaderBt js-navOpenBt">
+                <img src="images/icon-hamburger--white.svg" alt="打開網站連結選單" class="patheaderBt-icon">
             </button>
         </header>
 
@@ -133,15 +133,15 @@ function ShowNavigation(sysconfig, navigation) {
         <div class="patnavBk js-patnavBk">
             <div class="patnav js-patnavContent">
                 <div class="patnav-head">
-                    <a href="index.html" title="回` + sysconfig[1].setvalue + `首頁" aria-label="回` + sysconfig[1].setvalue + `首頁" class="js-navOpenfocus js-tabnone" tabindex="-1">
-                        <img src="images/footer-logo.svg" alt="` + sysconfig[1].setvalue + `LOGO" class="patnav-head--logoImg" aria-hidden="true">
+                    <a href="index.html" title="回` + sysconfig[1].setvalue + `首頁"  class="js-navOpenfocus js-tabnone" tabindex="-1">
+                        <img src="images/footer-logo.svg" alt="` + sysconfig[1].setvalue + `LOGO" class="patnav-head--logoImg">
                     </a>
                 </div>
                 <div class="clear"></div>
 
                 <div class="patnavDecBk">
-                    <img src="images/nav-dec01.png" alt="裝飾圖示" class="patnavDecBk--dec01" aria-hidden="true">
-                    <img src="images/nav-dec02.png" alt="裝飾圖示" class="patnavDecBk--dec02" aria-hidden="true">
+                    <img src="images/nav-dec01.png" class="patnavDecBk--dec01">
+                    <img src="images/nav-dec02.png" class="patnavDecBk--dec02">
                 </div>
 
                 <div class="patnavSectionBk">
@@ -318,8 +318,8 @@ function ShowNavigation(sysconfig, navigation) {
                 </div>
 
                 <!-- 關閉按鈕，放在最後讓無障礙使用者關閉 -->
-                <button class="patnav-navCloseBt js-navCloseBt js-tabnone" aria-label="關閉網站連結選單" tabindex="-1">
-                    <img src="images/icon-close--white.svg" alt="裝飾圖示" class="patnav-navCloseBt--icon">
+                <button class="patnav-navCloseBt js-navCloseBt js-tabnone" tabindex="-1">
+                    <img src="images/icon-close--white.svg" alt="關閉網站連結選單" class="patnav-navCloseBt--icon">
                 </button>
             </div>
             <div>
@@ -339,15 +339,15 @@ function ShowNavigation(sysconfig, navigation) {
                         <!-- <script async src="https://cse.google.com/cse.js?cx=79eed71cc65107763"></script>
                         <div class="gcse-searchbox-only"></div> -->
                         <!-- <input type="text" name="" id="" class="patSearchArea-input js-searchBt js-tabnone" placeholder="輸入搜尋關鍵字"  tabindex="-1">
-                        <a href="javascript:void(0);" class="patSearchArea-input--iconBt js-tabnone" role="button" aria-pressed="false" aria-label="送出搜尋按鈕"  tabindex="-1">
-                            <img src="images/icon-serach--gold.svg" alt="" aria-hidden="true">
+                        <a href="javascript:void(0);" class="patSearchArea-input--iconBt js-tabnone" role="button" aria-pressed="false" tabindex="-1">
+                            <img src="images/icon-serach--gold.svg" alt="送出搜尋按鈕">
                         </a> -->
                     </div>
 
                 </div>
                 <!-- 關閉按鈕，放在最後讓無障礙使用者關閉 -->
-                <button class="patnav-navCloseBt js-searchCloseBt js-tabnone" aria-label="關閉搜尋區"  tabindex="-1">
-                    <img src="images/icon-close--white.svg" alt="裝飾圖示" class="patnav-navCloseBt--icon">
+                <button class="patnav-navCloseBt js-searchCloseBt js-tabnone" tabindex="-1">
+                    <img src="images/icon-close--white.svg" alt="關閉搜尋區" class="patnav-navCloseBt--icon">
                 </button>
             </div>
             <div>

@@ -24,11 +24,11 @@ function ShowFooter(sysconfig, navigation) {
     let FooterContent = `
         <footer class="patFooter">
             <div class="patFooter-dec">
-                <img src="images/ele-footerBg-01.svg" alt="裝飾圖片">
+                <img src="images/ele-footerBg-01.svg" alt="">
             </div>
             <div class="patFooter-openBtBk">
             <button class="patFooter-openBt js-patFooter-openBt">
-                <img src="images/icon-arrowBt--top--gray.svg" alt="" class="patFooter-openBt--icon js-patFooter-openBt--icon" aria-hidden="true">
+                <img src="images/icon-arrowBt--top--gray.svg" alt="" class="patFooter-openBt--icon js-patFooter-openBt--icon">
                 <div class="patFooter-openBt--text js-patFooter-openBt--text">關閉</div>
             </button>
             </div>

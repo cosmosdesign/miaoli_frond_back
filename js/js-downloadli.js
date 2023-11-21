@@ -94,7 +94,7 @@ $(document).ready(function() {
                     <a href="downloadin.html?downloadfile_id=` + downloadfile.id + `" class="modNewsProList-link" title="` + downloadfile.title + `">
                         ` + downloadfile.title + `
                         <div class="modNewsProList-linkDecBt mt-20">
-                            <img src="images/icon-arrow--right--big--em.svg" alt="" aria-hidden="true">
+                            <img src="images/icon-arrow--right--big--em.svg" alt="">
                         </div>
                     </a>
                 </article>
