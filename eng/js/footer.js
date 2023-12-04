@@ -45,8 +45,8 @@ function ShowFooter(sysconfig, navigation) {
                     </p>
                     <br />
                     <br />
-                    <a href="javascript:void(0);" class="patFooter-leftBk--label" title="hyperlink">
-                        <img src="images/aplus.png" alt="Accessibility badge">
+                    <a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20231107113536" class="patFooter-leftBk--label" title="accessible interface">
+                        <img src="images/aplus.png" border="0" width="88" height="31" alt="conformance level AA" />
                     </a>
                 </div>
 

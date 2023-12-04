@@ -45,8 +45,9 @@ function ShowFooter(sysconfig, navigation) {
                     </p>
                     <br />
                     <br />
-                    <a href="javascript:void(0);" class="patFooter-leftBk--label" title="無障礙AA標章">
-                        <img src="images/aplus.png" alt="無障礙標章">
+                   
+                    <a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20231107113536" class="patFooter-leftBk--label" title="無障礙網站">
+                        <img src="images/aplus.png" border="0" width="88" height="31" alt="通過AA無障礙網頁檢測" />
                     </a>
                 </div>
 
